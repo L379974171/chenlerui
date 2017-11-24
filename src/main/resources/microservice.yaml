@@ -21,6 +21,6 @@ cse:
   rest:
     address: 0.0.0.0:8080
   credentials:
-    accessKey: ak
-    secretKey: sk
+    accessKey: RKPIGHYVPCL0VCXX3RQY
+    secretKey: ULU7HGRRUdfzVCdc0tFqSiitcgaeXkeRcK9sACgV
     akskCustomCipher: default
